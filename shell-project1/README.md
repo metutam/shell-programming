@@ -12,6 +12,6 @@ Anlaşılacağı üzere birinci argüman içindeki satır sayısı ikinci argüm
 
 Yazılan bu script komut satırında aşağıdaki şekillerde çalıştırılabilir:
 ```
-$ ./Proje1.sh ./Turkish.dic 10
-$ ./Proje1.sh /home/user/files/Turkish.dic 20
+$ ./project1.sh ./turkish.dic 10
+$ ./project1.sh /home/user/files/turkish.dic 20
 ```
